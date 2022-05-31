@@ -8,6 +8,6 @@ I'm Fran, from Spain and I'm an Agricultural Engineer currently making the switc
 
 :computer: PHP / SQL / JS / HTML / CSS
 
-Im insterested in geek culture, movies, books and nature. In my freetime I love to climb and make some art
+Im insterested in geek culture, movies, literature and nature. Science fiction is the way! In my freetime I'm an avid climber and an artist attemp (you can check my Artstation profile below).
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/franpersanchez/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/franperezs)  
