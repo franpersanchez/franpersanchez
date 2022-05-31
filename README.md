@@ -8,4 +8,7 @@ I'm Fran, from Spain and I'm an Agricultural Engineer currently making the switc
 
 :computer: PHP / SQL / JS / HTML / CSS
 
+Im insterested in geek culture, movies, books and nature. In my freetime I love to climb and make some art
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/franpersanchez/)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=franpersanchez&show_icons=true)  
