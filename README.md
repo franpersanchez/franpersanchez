@@ -4,7 +4,7 @@
 I'm Fran, from Spain. I'm an Agricultural Engineer currently making the switch to Web Development. Moved by a passion for new technologies and programming I decided to begin this path by studying Higher Technician in Development of Web Applications.
 
 
-## Skills
+## Skills and Interests
 
 :computer: PHP / SQL / JS / HTML / CSS
 
