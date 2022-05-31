@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-1111Iamsterdam@@@@1111Iamsterdam@@@@1111@@@@
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
