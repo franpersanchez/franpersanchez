@@ -4,10 +4,7 @@
 I'm Fran, from Spain. I'm an Agricultural Engineer currently making the switch to Web Development. Moved by a passion for new technologies and programming I decided to begin this path by studying Higher Technician in Development of Web Applications.
 
 
-## Skills and Interests
 
-:computer: PHP / SQL / JS / HTML / CSS
 
-Im interested in geek culture, movies, literature and nature. Science fiction is the way! In my freetime I'm an avid climber and an artist attemp (you can check my Artstation profile below).
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/franpersanchez/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/franperezs)  
