@@ -1,5 +1,5 @@
 
-# Hello there!
+# Hello there! :wave:
 I'm Fran, a spanish __Back End Software Developer__. I also have a background as Agricultural Engineer. Moved by a passion for continuous learning, finding solutions to complex problems and new challenges. I am very proficient in HTML/CSS (bootstrap, grid), SQL. JavaScript, server configuration (Apache) and Git. I have created different full stack applications with PHP, Node.js, MongoDB and RESTful APIs as part of personal projects or provided solutions. Programming languages: Java, PHP, Python and JavaScript. 
 
 
