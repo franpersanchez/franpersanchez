@@ -11,5 +11,5 @@ I'm Fran, a spanish __Back End Software Developer__. I also have a background as
 
 
 
-
+## Other links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/franpersanchez/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/franperezs)  
