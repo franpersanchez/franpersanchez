@@ -22,7 +22,9 @@
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="400"/>
   </div>
 </div>
+
 ---
+
 ### :man_technologist: About Me :
 I'm Fran, a spanish Back End Software Developer. I also have a background as Agricultural Engineer, career from which I decided to make the switch to tech. 
 I'm moved by a passion for continuous learning, finding solutions to complex problems and new challenges. I am specialized on backend stack, with a willingness to participate in interesting and challenging projects. My interests lie in Data intensive applications, database engineering and distributed systems.
