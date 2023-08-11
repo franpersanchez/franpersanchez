@@ -33,8 +33,7 @@ I'm moved by a passion for continuous learning, finding solutions to complex pro
 
 I am specialized on backend stack, with a willingness to participate in interesting and challenging projects. My interests lie in Data intensive applications, database engineering and distributed systems.
 
-<p align="left">
-**Languages and Tools:** 
+### Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4"></code>
@@ -52,7 +51,7 @@ I am specialized on backend stack, with a willingness to participate in interest
 [comment]: <> (<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>)
 
 [comment]: <> (<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>)
-</p>
+
 
 
 
