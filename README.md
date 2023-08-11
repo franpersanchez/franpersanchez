@@ -6,6 +6,9 @@
     <a href="mailto:franpersanchez@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+    <a href="https://twitter.com/kipple_gatherer">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
     <br/>
     <img src="https://komarev.com/ghpvc/?username=franpersanchez&style=flat-square&color=blue" alt=""/>
   </div>
@@ -17,8 +20,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="400"/>
 </div>
-
-# Hello there! :wave:
 I'm Fran, a spanish __Back End Software Developer__. I also have a background as Agricultural Engineer, career from which I decided to make the switch to tech. Moved by a passion for continuous learning, finding solutions to complex problems and new challenges. I am specialized on backend stack, with a willingness to participate in interesting and challenging projects. My interests lie in Data intensive applications, database engineering and distributed systems.
 
 ## Open source contributions
