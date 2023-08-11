@@ -19,7 +19,7 @@
         </h1>
     </div>
   <div align="center">
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="400"/>
+    <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="600" height="400"/>
   </div>
 </div>
 
