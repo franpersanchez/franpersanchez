@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="[https://linkedin.com/in/keval-rajpal](https://www.linkedin.com/in/franpersanchez/)">
+    <a href="[[https://linkedin.com/in/keval-rajpal](https://www.linkedin.com/in/franpersanchez/)](https://www.linkedin.com/in/franpersanchez/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:franpersanchez@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=kevalrajpalknight&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=franpersanchez&style=flat-square&color=blue" alt=""/>
   </div>
   <h1>
-    hey there
+    Hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
