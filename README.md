@@ -33,7 +33,7 @@ I'm moved by a passion for continuous learning, finding solutions to complex pro
 
 I am specialized on backend stack, with a willingness to participate in interesting and challenging projects. My interests lie in Data intensive applications, database engineering and distributed systems.
 
-### Languages and Tools:
+### Main Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="20" src="https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg"></code>
