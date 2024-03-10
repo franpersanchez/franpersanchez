@@ -18,9 +18,6 @@
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
         </h1>
     </div>
-  <div align="center">
-    <img src="https://camo.githubusercontent.com/c08651921d3460b80ee4c7d6e23d4e3afaa30200faa87f7addf1ec8a0283c021/68747470733a2f2f632e74656e6f722e636f6d2f327579454e526d6955743041414141432f636f64696e672e676966" height="350"/>
-  </div>
 </div>
 
 ---
