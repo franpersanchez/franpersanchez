@@ -19,11 +19,13 @@
 
 ### :man_technologist: About Me :
 
-I'm Fran, a spanish __Back End Software Developer__. I also have a background as Agricultural Engineer, career from which I decided to make the switch to tech.
+I'm Fran, a spanish __Back End Software Developer__. I have a background as Agricultural Engineer, career from which I decided to make the switch to tech.
 
 I'm moved by a passion for continuous learning, finding solutions to complex problems and new challenges. 
 
 I am specialized on backend stack, with a willingness to participate in interesting and challenging projects. My interests lie in performance optimization, data intensive applications, database engineering and distributed systems.
+
+Visit my [blog](https://www.franpersanchez.com) if you want to learn more about my projects. I also write articles related to software about topics that captivate my interest."
 
 ### Main Languages and Tools:
 
