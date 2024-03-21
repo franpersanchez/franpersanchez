@@ -25,7 +25,7 @@ I'm moved by a passion for continuous learning, finding solutions to complex pro
 
 I am specialized on backend stack, with a willingness to participate in interesting and challenging projects. My interests lie in performance optimization, data intensive applications, database engineering and distributed systems.
 
-Visit my [blog](https://www.franpersanchez.com) if you want to learn more about my projects. I also write articles related to software about topics that captivate my interest."
+Visit my [blog](https://www.franpersanchez.com) if you want to learn more about my projects. I also write software-related articles on topics that captivate my interest.
 
 ### Main Languages and Tools:
 
