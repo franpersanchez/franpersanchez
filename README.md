@@ -6,11 +6,6 @@
           <a href="mailto:franpersanchez@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
           </a>
-          <a href="https://twitter.com/kipple_gatherer">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-          </a>
-          <br/>
-          <img src="https://komarev.com/ghpvc/?username=franpersanchez&style=flat-square&color=blue" alt=""/>
     </div>
     <div>
         <h1>
